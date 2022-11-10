@@ -25,6 +25,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Although it's better to watch as playlist but in case you are a fan of 1 long video, then here is the time stamp
 
 
+```
 00:00:00 - 00:06:51 - Why to learn typescript
 00:06:51 - 00:15:08 - Typescript is not what you think
 00:15:08 - 00:27:16 - How to install typescript
@@ -58,3 +59,4 @@ Although it's better to watch as playlist but in case you are a fan of 1 long vi
 04:22:00 - 04:31:18 - Instanceof and Type Predicates
 04:31:18 - 04:42:37 - Discriminated Union and Exhaustiveness Checking with never
 04:42:37 - 04:46:07 - Typescript End
+```
